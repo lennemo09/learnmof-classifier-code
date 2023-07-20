@@ -1,0 +1,43 @@
+======================
+Node 1
+memory.free [MiB]
+8246 MiB
+======================
+Node 2
+memory.free [MiB]
+6731 MiB
+======================
+Node 3
+memory.free [MiB]
+10875 MiB
+======================
+Node 4
+memory.free [MiB]
+12857 MiB
+======================
+Node 5
+memory.free [MiB]
+767 MiB
+======================
+Node 6
+memory.free [MiB]
+20 MiB
+======================
+Node 7
+memory.free [MiB]
+17481 MiB
+======================
+Node 8
+memory.free [MiB]
+8246 MiB
+6731 MiB
+======================
+Node 9
+memory.free [MiB]
+10875 MiB
+12857 MiB
+======================
+Node 10
+memory.free [MiB]
+767 MiB
+20 MiB
